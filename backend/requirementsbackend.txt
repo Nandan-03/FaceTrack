@@ -1,0 +1,8 @@
+Flask
+Flask-CORS
+OpenCV
+Keras-FaceNet
+ReportLab
+Pillow
+Matplotlib
+Numpy
