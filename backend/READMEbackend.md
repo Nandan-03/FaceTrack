@@ -23,4 +23,12 @@ This is a Flask-based API for processing images, detecting faces, recognizing id
     pip install -r requirementsbackend.txt
    ```   
 ## USAGE
+1. Start the Flask server:
+
+   ```bash
+   python app.py
+   ```
+
+2. The server will run at http://localhost:5000.   
+
 
